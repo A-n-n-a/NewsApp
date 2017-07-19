@@ -35,10 +35,11 @@ class TableViewController: UITableViewController {
         if nsString.length > 100
         {
             description = nsString.substring(with: NSRange(location: 0, length: nsString.length > 100 ? 100 : nsString.length))
+            let index = description.index(description.startIndex, offsetBy: 97)
+            let range = index...description.index(before: description.endIndex)
+            description.replaceSubrange(range, with: "...")
         }
-        let index = description.index(description.startIndex, offsetBy: 97)
-        let range = index...description.index(before: description.endIndex)
-        description.replaceSubrange(range, with: "...")
+        
         
         // String -> Date -> String
         let date = requestResultsArray[indexPath.row].publishedAt

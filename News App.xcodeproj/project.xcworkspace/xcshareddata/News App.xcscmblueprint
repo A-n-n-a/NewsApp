@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F568EBB411010BBC4274A8D7626F490D58C1B349",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "408DA24D7D9B4354F75CFE507557BE7C7EF8F41D" : 9223372036854775807,
+    "F568EBB411010BBC4274A8D7626F490D58C1B349" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "151A5B07-5286-4334-AFCF-F70686BC9FF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "408DA24D7D9B4354F75CFE507557BE7C7EF8F41D" : "News%20App\/News%20App\/",
+    "F568EBB411010BBC4274A8D7626F490D58C1B349" : "News%20App\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "News App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "News App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/A-n-n-a\/NewsApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "408DA24D7D9B4354F75CFE507557BE7C7EF8F41D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/A-n-n-a\/NewsApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F568EBB411010BBC4274A8D7626F490D58C1B349"
+    }
+  ]
+}
